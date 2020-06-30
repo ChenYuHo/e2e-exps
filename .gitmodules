@@ -1,0 +1,3 @@
+[submodule "CTR"]
+	path = CTR
+	url = git@github.com:Phlix1/CTR.git
